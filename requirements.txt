@@ -2,3 +2,4 @@ flask
 flask-cors
 markdown
 llama-index
+gunicorn
