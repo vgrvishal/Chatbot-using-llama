@@ -1,0 +1,12 @@
+# Ignore .chainlit directory
+.chainlit/
+
+# Ignore .files directory
+.files/
+
+# Ignore virtual environment directory (venv)
+venv/
+
+Medical-chatbot/
+
+vectorstore/
